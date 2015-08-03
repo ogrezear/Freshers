@@ -1,0 +1,57 @@
+http://phonegap.com/
++++
+toate platformele
+free
+html
+css
+
+---
+documentatie
+javascript
+hard to implement/test/debug
+
+http://www.appcelerator.com/
+
++++
+
+---
+price
+javascript
+documentation
+
+
+
+http://ionicframework.com/
+
++++
+html
+css
+doccumentation
+popular - nice examples
+free
+debugging in browser 
+
+---
+java
+
+https://www.nativescript.org/
++++
+source code for other apps
+---
+nu e mare branza de el
+basic apps only
+
+http://www.mosync.com/sdk
++++
+c/c++
+
+---
+unrelaiable 
+documentation
+hard to implement/test/debug
+shitty design
+
+https://www.meteor.com/
+---
+more web based
+
